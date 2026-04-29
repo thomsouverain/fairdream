@@ -2,7 +2,7 @@
 name = "fairdream" # be careful to never give same name as existing package in pypi
 version = "0.0.1"
 description = ""
-authors = ["johnathan nguyen <nonosnguyen@gmail.com>"]
+authors = ["Thomas Souverain <thomas.souverain@ens.psl.eu>"]
 
 [tool.poetry.dependencies]
 python = "^3.8.0"
